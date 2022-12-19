@@ -7,12 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Travel Buddy offers users a one-stop shop for planning trips. Toggling numerous sites can be a bit chaotic and overwhelming. 
+We are looking to streamline that process with one app, Travel Buddy.
 ### Features
-Include Features here
+Features include: <br><br>
+User Authentication - Privacy is a necessity.  We will be adding SSO user authentication for your convenience.<br><br>
+Ability to  create and save trips - Trip planning can be tedious and is often iterated over days/weeks/maybe even months. We will offer a create trip and save trip feature
+that will allow you to save your progress as you plan. No more lost time.<br><br>
+Integration of travel APIs (google maps & tripadvisor) - allow for most update information
+for places of interest/distance. <br><br>
+Add places of interest/food places - leveraging the travel APIs mentioned above, we will recognize location based places of interest. 
 ### Technologies
-Include Technologies here
+Angular<br>
+JavaScript<br>
+Google Maps API Integration<br>
+TripAdvisor API Integration
 ### What I'll Have to Learn
-Include what you will need to learn here
+API Integrations <br>
+Deeper dive into Angular <br>
+Authentication (attempting SSO)
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/YNjB6Pyn/launchcode-liftoff
